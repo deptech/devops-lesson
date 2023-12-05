@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "mem"
+free -h
+echo "disk"
+df -h /dev/sda2
