@@ -3,3 +3,7 @@ echo "mem"
 free -h
 echo "disk"
 df -h /dev/sda2
+free -h >> log
+free df -h >> log
+
+
