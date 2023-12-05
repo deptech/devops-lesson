@@ -5,5 +5,5 @@ echo "disk"
 df -h /dev/sda2
 free -h >> log
 free df -h >> log
-
+#test
 
