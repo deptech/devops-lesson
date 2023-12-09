@@ -7,3 +7,8 @@ free -h >> log
 free df -h >> log
 #test
 #123
+<<<<<<< HEAD
+=======
+$#asdasd
+eeesad$$%%
+>>>>>>> feature-branch
